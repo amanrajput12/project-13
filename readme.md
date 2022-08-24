@@ -10,6 +10,7 @@
   * Learned to resize the image 
   using __height and width__
   * Learned to make card  using __flex__, __height, width, etc__ 
+  * Learned to wrap content using __flex wrap__
   * Learn to used change direction of content in row or colum  and content align using  
   __flex-direction, align item , justify-content__
   *  Leaned to  create footer section and align the elements using __align-item and flex__
